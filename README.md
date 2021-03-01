@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning to earn money to buy an island
 
-### my try to make a chat on a npm
+### my try to make a chat on a Node.js Express.js Socket.io
 - https://mongolchat.herokuapp.com/
 ### my first forum on react and firebase
 - https://formalibus.github.io/timach/
