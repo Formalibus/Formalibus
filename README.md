@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 Help me buy and island, hire me.
+🌱 Help me buy an island, hire me.
 
 ### my try to make a chat on a Node.js Express.js Socket.io
 - &#128279; https://mongolchat.herokuapp.com/
