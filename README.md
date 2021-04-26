@@ -3,16 +3,15 @@
 
 ### Flushing chat ```[Express.js, Socket.io]```
 - &#128279; https://mongolchat.herokuapp.com/
-### my first forum on react and firebase
+### Wrtie a thread on my forum
 - &#128279; https://formalibus.github.io/timach/
-### shameful past
-- &#128279; https://formalibus.github.io/taxi/
 
 ### 📫 How to reach me:
 - [IG](https://www.instagram.com/formalibus/)
 
-### hobby
+### other
 - &#128279; https://formalibus.github.io/udo-things/
+
 <!--
 **Formalibus/Formalibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
