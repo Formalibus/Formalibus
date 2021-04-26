@@ -9,6 +9,7 @@
 
 ### other
 - &#128279; https://formalibus.github.io/udo-things/
+- &#128279; https://formalibus.github.io/book/
 
 <!--
 **Formalibus/Formalibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
