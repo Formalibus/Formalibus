@@ -2,7 +2,7 @@
 🌱 Help me buy an island -- hire me.
 
 - [Flushing chat ```[Express.js, Socket.io]```](https://mongolchat.herokuapp.com/)
-- Wrtie a thread on my forum &#128279; https://formalibus.github.io/timach/
+- [Wrtie a thread on my forum](https://formalibus.github.io/timach/)
 
 ### 📫 How to reach me:
 - [IG](https://www.instagram.com/formalibus/)
